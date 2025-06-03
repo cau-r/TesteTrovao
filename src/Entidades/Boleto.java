@@ -1,4 +1,4 @@
-package Entidades;
+package Programa.Entidades;
 public class Boleto{
     private Double taxaTotal;
     private Double valorTotal;

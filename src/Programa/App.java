@@ -5,11 +5,11 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-import Entidades.Aluguel;
-import Entidades.Imovel;
-import Entidades.ServicoGerarBoleto;
-import Entidades.ServicoTaxaMarAzul;
-import Entidades.ServicoTaxaParaiso;
+import Programa.Entidades.Aluguel;
+import Programa.Entidades.Imovel;
+import Programa.Entidades.ServicoGerarBoleto;
+import Programa.Entidades.ServicoTaxaMarAzul;
+import Programa.Entidades.ServicoTaxaParaiso;
 
 
 public class App {

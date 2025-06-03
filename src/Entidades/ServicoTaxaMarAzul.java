@@ -1,4 +1,4 @@
-package Entidades;
+package Programa.Entidades;
 public class ServicoTaxaMarAzul implements ServicoTaxa{
 
     public Double calculaTaxa(Double valorDiaria){

@@ -1,8 +1,8 @@
-package Entidades;
+package Programa.Entidades;
 import java.time.Duration;
 
-import Entidades.Aluguel;
-import Entidades.Boleto;
+import Programa.Entidades.Aluguel;
+import Programa.Entidades.Boleto;
 
 public class ServicoGerarBoleto{
     private Double valorDiaria;

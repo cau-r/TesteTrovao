@@ -1,4 +1,4 @@
-package Entidades;
+package Programa.Entidades;
 public class Imovel {
     private Integer codigo;
     private String descricao;

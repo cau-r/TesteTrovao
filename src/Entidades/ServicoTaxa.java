@@ -1,4 +1,4 @@
-package Entidades;
+package Programa.Entidades;
 
 public interface ServicoTaxa {
     
